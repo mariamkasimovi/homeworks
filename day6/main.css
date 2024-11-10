@@ -7,13 +7,17 @@ body {
     background-color: #fff2f3;
 
 }
+
+
  
 .container{
-    max-width: 1200px;
+    max-width: 1200px ;
     align-items: center;
     margin-right: auto;
     margin-left: auto;
 }
+
+
 
 nav{
     display:flex;
@@ -41,15 +45,15 @@ h1{
 }
 
 button{
-   
-padding: 15px ;
-gap: 15px;
+
+gap: 45px;
 border-radius: 5px ;
 text-decoration: none;
 background-color:#96BB7C;
 color: azure;
 border: 0;
 cursor: pointer;
+
 
 }
 
@@ -116,27 +120,176 @@ h4{
 
 
 img{
+  
+   padding-left:750px;
+   margin-top:-320px;
 
-   margin-left: 655px;
-   margin-top: -390px;
+}
+
+h3{
+    font-size: 40px;
+    color: #252B42;
+}
+
+h6{
+    font-size: 18px;
+}
+
+p{
+    color: #737373;
+}
+
+i{
+    width: Hug (70px)px;
+    height: Hug (76px)px;
+    padding: 22px 19px 22px 19px;
+    gap: 10px;
+    border-radius: 10px;
+    color: white;
+    background-color: #96BB7C;
+ 
+}
+
+a{
+    color: #96BB7C;
+}
+
+.red-line{
+    background-color: red;
+    width: 94px;
+    height: 7px;
+}
+
+.rd-line{
+    background-color: red;
+    width: 50px;
+    height: 2px;
+}
+
+.card{
+    
+    box-shadow: 0px 0px 10px rgb(90, 86, 86);
+    background: #FFFFFF;
+    width: Fixed (249px)px;
+    height: Hug (292px)px;
+    padding: 45px 50px 45px 50px;
+    gap: 20px;
 
 
-   
+
+
+    
+}
+
+.about{
+    background-color: white;
+    padding: auto;
 
 }
 
 
 
-
-.mt-90 {
-    margin-top: 90px;
+.mt-200 {
+    margin-top: 200px;
 }
 
 .mt-20{
     margin-top: 20px;
 }
 
+.mb-25{
+    margin-bottom: 25px;
+}
+
 .mr-10{
     margin-right: 10px;
 }
 
+.ml-100{
+    margin-left: 100px;
+}
+
+.mb-20{
+    margin-bottom: 20px;
+}
+
+
+.row{
+    display: flex;
+    gap: 40px;
+}
+
+.col{
+    margin-top: 300px;
+    margin-bottom: 500px;
+}
+
+.action{
+    background-color: white;
+    
+   
+}
+
+.xx-line{
+    background-color: red;
+    width: 94px;
+    height: 7px;
+
+}
+
+
+
+
+.sctn{
+    background-color: white;
+   
+}
+
+.kfc{
+    color: #96BB7C;
+}
+
+.pnl-png{
+    margin-left: -1400px;
+    margin-top: 800px;
+    width: 209px;
+    height: 402px;
+}
+
+.prgrph{
+    margin-top: -300px;
+}
+
+.crs{
+    color: #96BB7C;
+}
+
+.aaa{
+    color: #252B42;
+}
+
+.iii{
+    color: #737373;
+    font-size: 14px;
+    background-color: white;
+    margin-right: 30px;
+    margin-top: 10px;
+    padding: 0;
+}
+
+.fsfs{
+    color: #BDBDBD;
+
+}
+
+.sfsf{
+    color: #FFAB71;
+    display: flex;
+}
+
+.iuu{
+    color: #96BB7C;
+    padding: 0;
+    background-color: white;
+    text-color:#737373;
+}
