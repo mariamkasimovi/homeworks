@@ -213,6 +213,10 @@ a{
     margin-bottom: 20px;
 }
 
+.ml-15{
+    margin-left: 15px;
+}
+
 
 .row{
     display: flex;
@@ -257,11 +261,14 @@ a{
 }
 
 .prgrph{
-    margin-top: -300px;
+    margin-top: -680px;
+    margin-left: 250px;
+
 }
 
 .crs{
     color: #96BB7C;
+
 }
 
 .aaa{
@@ -275,6 +282,15 @@ a{
     margin-right: 30px;
     margin-top: 10px;
     padding: 0;
+}
+
+.cla{
+    display: flex;
+}
+
+.hhh{
+    font-size: 14px;
+    color: #737373;
 }
 
 .fsfs{
@@ -291,5 +307,36 @@ a{
     color: #96BB7C;
     padding: 0;
     background-color: white;
-    text-color:#737373;
+    
+}
+
+.eww{
+    color: #FFAB71;
+    background-color: white;
+    padding: 0;
+}
+
+.btn5{
+    color: #ffffff;
+    border: 1px;
+    border-color: #96BB7C;
+    border-radius: 37px;
+    gap: 10px;
+    padding: 10px 30px 10px 30px;
+
+}
+
+.snsrf{
+    display: flex;
+}
+
+.pnsl-png{
+    margin-top: -390px;
+    margin-left: -150px;
+  
+}
+
+.prgr{
+    margin-left: 850px;
+    margin-top: -370px;
 }
