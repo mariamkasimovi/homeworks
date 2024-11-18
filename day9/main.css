@@ -23,7 +23,7 @@ nav{
     padding: 50px;
     display: flex;
     justify-content: space-between;
-    gap: ;
+  
 }
 
 nav h2{
@@ -472,6 +472,7 @@ nav a{
     border-radius: 32px;
     width: 757px;
     margin-right: 50px;
+    
 }
 
 .lomi{
@@ -486,3 +487,25 @@ nav a{
     
 }
 
+
+
+.social h2{
+    color: #191825;
+    font-size: 24px;
+}
+
+.social p{
+    color: #19182580;
+    font-size: 23px;
+}
+
+
+.icons i{
+    font-size: 32px;
+    color: #5D50C6;
+}
+
+.icons{
+    gap: 20px;
+    display: flex;
+}
