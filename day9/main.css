@@ -12,7 +12,6 @@ section{
   
 .container{
     max-width: 1200px;
-    /* align-items: center; */
     margin-right: auto;
     margin-left: auto;
 
@@ -509,3 +508,141 @@ nav a{
     gap: 20px;
     display: flex;
 }
+
+
+.sctn8{
+    padding: 100px;
+}
+
+.trvlg i{
+   color: #5D50C6;
+   font-size: 32px;
+}
+
+.trvlg{
+  margin-right: 64px;
+}
+
+
+.night{
+   font-size: 24px;
+}
+
+.fcbk{
+    gap: 20px;
+    display: flex;
+    padding: 60px 0;
+}
+
+.random{
+    color: #19182580;
+    font-size: 23px;
+    padding: 30px 0;
+}
+
+.company h6{
+    font-size: 23px;
+    color: #191825;
+    padding-bottom: 16px;
+}
+
+.company p{
+    font-size: 18px;
+    color: #191825BF;
+    padding-bottom: 16px;
+}
+
+.finito{
+    display: flex;
+    gap: 50px;
+}
+
+@media only screen and (max-width:768px) {
+    .gznfr{
+        flex-direction: column;
+    }
+    .img{
+        align-items: center;
+        width: 350px;
+        flex-direction: column;
+    }
+
+    .psga{
+        text-align: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .world{
+        text-align: center;
+        margin-right: 0;
+        
+    }
+
+    .xnmcn{
+        flex-direction: column;
+    }
+
+    .section-title{
+        text-align: center;
+    }
+
+    .glmcn{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .mr-30{
+        margin-right: 0;
+    }
+    
+    .txt{
+        text-align: center;
+    }
+
+    .mobil{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .prgrph{
+        text-align: center;
+    }
+
+    .sldd{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .mobile{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .smy{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .mail{
+        width: 334px;
+        margin-right: 0;
+    }
+
+    .lomi{
+        width: 334px;
+    }
+
+    .smngl{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .fcbk i{
+        align-items: center;
+        text-align: center;
+    }
+}
+
+
