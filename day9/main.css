@@ -123,13 +123,6 @@ nav a{
     
 }
 
-.img{
-   
-    width: 772px;
-    height: 713px;  
-}
-
-
 
 .row{
   display: flex;
@@ -184,7 +177,8 @@ nav a{
     color: #191825;
  
  }
- 
+
+
  .card p{
     font-size: 18px;
     color:#19182580;
@@ -559,12 +553,19 @@ nav a{
 
 @media only screen and (max-width:768px) {
     .gznfr{
+        flex-direction: column-reverse;
+        gap: 20px;
+    }
+    .world img{
+        align-items: center;
+        width: 398px;
         flex-direction: column;
     }
-    .img{
-        align-items: center;
-        width: 350px;
-        flex-direction: column;
+
+
+    .btnnnn{
+      display: flex;
+      justify-content: space-between;
     }
 
     .psga{
@@ -579,8 +580,26 @@ nav a{
         
     }
 
+    .alzd{
+        align-items: center;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .btn3{
+        width: 398px;
+        height: 65px;
+    }
+
+    .btn4{
+        width: 398px;
+        height: 65px;
+    }
+
+
     .xnmcn{
         flex-direction: column;
+        gap: 15px;
     }
 
     .section-title{
@@ -590,6 +609,7 @@ nav a{
     .glmcn{
         flex-direction: column;
         align-items: center;
+        gap: 15px;
     }
 
     .mr-30{
@@ -612,10 +632,20 @@ nav a{
     .sldd{
         flex-direction: column;
         align-items: center;
+        
+    }
+
+    .sld{
+        width: 398px;
+    }
+    
+    .mrmld{
+        flex-direction: column;
+        align-items: center;
     }
 
     .mobile{
-        flex-direction: column;
+        flex-direction: column-reverse;
         align-items: center;
     }
 
@@ -646,3 +676,83 @@ nav a{
 }
 
 
+@media only screen and (max-width:1024px) {
+    .gznfr{
+        flex-direction: column-reverse;
+        gap: 20px;
+    }
+    .world img{
+        align-items: center;
+        width: 398px;
+        flex-direction: column;
+    }
+
+    .world{
+        text-align: center;
+        margin-right: 0;
+        
+    }
+
+    .xnmcn{
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+
+    .crdddd{
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .mr-30{
+        margin-right: 0;
+    }
+
+    .txt{
+        text-align: center;
+        align-items: center;
+    }
+   
+    .glmcn{
+        align-items: center;
+    }
+
+    .card2 img{
+        width: 278px;
+    }
+
+    .card2 {
+       margin-left: 10px;
+        
+    }
+
+    .mobil{
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+
+    .prgrph{
+        text-align: center;
+        align-items: center;
+    }
+
+    .sldd{
+        align-items: center;
+        text-align: center;
+    }
+
+
+    .mobile{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .psga{
+        text-align: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}
