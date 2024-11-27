@@ -1,0 +1,152 @@
+body{
+    background-color: #f0f2f5;
+    
+}
+
+.container{
+    max-width: 432px;
+    margin: 0 auto;
+}
+
+.facebook{
+    text-align: center;
+
+}
+
+.name{
+    width: 200px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    
+}
+
+img{
+    height: 100px;
+}
+
+
+.crt{
+    text-align: center;
+    align-items: center;
+     background-color: white;
+     padding: 16px;
+     border-radius: 12px;
+     
+   
+}
+
+.crt h1{
+    font-size: 25px;
+   
+}
+
+.crt p{
+    font-size: 15px;
+    color: gray;
+}
+
+input{
+    padding: 11px;
+    border-radius: 5px;
+    border-color: #ccd0d5;
+}
+
+.brth{
+    text-align: left;
+  
+}
+
+select{
+    padding: 11px;
+    width: 135px;
+    border-radius: 5px;
+    border-color:#ccd0d5
+}
+
+.ayy{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    
+   
+
+}
+
+.brth label{
+    font-size: 12px;
+    color: gray;
+}
+
+.gndr label{
+    font-size: 12px;
+    color: gray;
+}
+
+.gndr{
+    text-align: left;
+    
+    max-width: 375px;
+    
+}
+
+.radio{
+   display: flex;
+   gap: 50px;
+    text-align: center;
+    align-items: center;
+    border: 1px solid  #ccd0d5;
+    width: 105px;
+    padding: 10px;
+    border-radius: 5px;
+   
+}
+
+.slmcnm{
+    display: flex;
+    gap: 10px;
+   
+}
+
+.radio label{
+   font-size: 15px;
+   color: black;
+}
+
+.eml input{
+    width: 375px;
+    border-color: #ccd0d5;
+}
+
+.pp{
+    text-align:start;
+}
+
+.pp p{
+    font-size: 12px;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    background: none;
+    background-color: #00a400;
+    border: none;
+    border-radius: 6px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 36px;
+    overflow: hidden;
+    padding: 0 32px;
+    text-shadow: none;
+
+}
+
+.alrd a{
+    font-size: 17px ;
+}
