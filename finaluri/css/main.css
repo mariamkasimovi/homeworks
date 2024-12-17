@@ -177,6 +177,9 @@ span{
     border-radius: 12px;
     padding: 30px;
     align-items: center;
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
    
 }
 
@@ -954,3 +957,363 @@ ul li a:hover{
     align-items: center;
     text-align: center;
 }
+
+.butttoon{
+  display: block;
+  padding: 30px;
+  
+  
+}
+
+.yrl{
+    background-color: #FF9500;
+    color: #FFFFFF;
+    padding: 14px;
+    border: 0;
+    border-radius: 6px;
+    font-size: 18px;
+
+}
+
+.yrml{
+    color: #4C4C4D;
+    background-color: #FFFFFF;
+    border: 0;
+    font-size: 18px;
+    padding: 14px;
+    border-radius: 6px;
+}
+
+.yrl:hover{
+    background-color: #96621b;
+}
+
+.yrml:hover{
+    background-color: #abaaaa;
+}
+
+
+@media only screen and (max-width:1400px){
+    .container{
+        max-width: 1400px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .logo img{
+        border-radius: 6px;
+        width: 44px;
+    }
+
+    ul li a{
+        font-size: 14px;
+    }
+
+    .star{
+        
+        border-radius: 6px;
+        font-size: 14px;
+        max-width: 1400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .buttons a{
+        
+        border-radius: 6px;
+        font-size: 12px;
+        padding: 6px 12px;
+    }
+
+    .ull{
+        margin-right: 400px;
+        align-items: left;
+    }
+
+    .spn h1 i{ 
+        font-size: 24px;
+        border-radius: 6px;
+        padding: 7px;
+    }
+
+    .spn h1{
+        font-size: 36px;
+    }
+
+    .spn h3{
+       font-size: 28px;
+    }
+
+    .spn p{
+        font-size: 16px;
+    }
+
+    .btn2{
+        border-radius: 6px;
+        font-size: 14px;
+        padding: 14px;
+    }
+    
+    
+    .btn3{
+        border-radius: 6px;
+        font-size: 14px;
+        padding: 14px;
+    }
+
+    .wwww{
+       
+        border-radius: 8px;
+        padding: 24px;
+        align-items: center;
+        max-width: 1400px;
+        margin-left: auto;
+        margin-right: auto;
+       
+    }
+
+    .www img{
+        width: 160px;
+    }
+
+    .sctn3 img{
+        width: 1200px;
+    }
+
+    .txt h2{
+        font-size: 36px;
+    }
+
+    .pp{
+        font-size: 16px;
+        width: 933px;
+      }
+
+      .btn4{
+        font-size: 14px;
+        border-radius: 6px;
+        padding: 14px;
+    }
+
+    .card{
+        padding: 40px;
+        width:413px;
+        height: 270px;
+        border-radius: 10px;
+    }
+
+    .card h1{
+        font-size: 60px;
+    }
+    
+    .card h2{
+        font-size: 20px;
+    }
+    
+    .card p{
+        font-size: 16px;
+    }
+
+    .card2{
+        padding: 25px;
+        border-radius: 10px;
+    }
+
+    .card2 img{
+        width: 550px;
+        
+    }
+    
+    .bcm{
+        font-size: 20px;
+
+    }
+    
+    .end{
+        font-size: 14px;
+    }
+    
+    .btn5{
+        border-radius: 6px;
+        background-color: #F7F7F8;
+        font-size: 14px;
+        width: 550px;
+        height: 49px;
+    }
+
+    .frpln{
+        padding: 25px;
+        width: 550px;
+        border-radius: 12px;
+      }
+      
+      
+      
+      .frpln2{
+          width: 510px;
+          padding:12px;
+          border-radius: 6px;
+          
+      }
+      
+      .dlr span{
+          font-size: 16px;
+          color: #4C4C4D;
+      }
+      
+      .dlr h1{
+          font-size: 60px;
+      }
+
+
+      .bashi p{
+        max-width: 470px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .xrsh h5{
+        font-size: 20px;
+    }
+    
+    .bashi i{
+       font-size: 14px;
+       padding: 6px;
+    }
+    
+    .bashi p{
+        border-radius: 14px;
+        padding: 14px;
+        width: 470px;
+        margin-top: 20px;
+    }
+    
+    .bashi button{
+      font-size: 14px;
+      text-align: center;
+      border: 0;
+      padding: 18px;
+      width: 550px;
+      border-radius: 10px;
+    }
+
+    .card3{
+        width: 630px;
+        padding: 50px;
+        border-radius: 12px;
+    
+    }
+
+    .card3 p{
+        font-size: 14px;
+    }
+
+    .vv{
+        display: flex;
+        gap: 5px;
+    
+    }
+
+    .manana{
+        gap: 500px;
+        display: flex;
+        
+    }
+
+    .dvlp h1{
+        font-size: 38px;
+    }
+    
+    .dvlp2 p{
+       font-size: 16px;
+    }
+    
+    .dvlpr{
+        display: flex;
+        gap: 100px;
+    }
+    
+    .trnt h2{
+      font-size: 20px;
+      margin-bottom: 20px;
+    }
+    
+    .trnt p{
+        font-size: 16px;
+    }
+    
+    .btn55 button{
+        font-size: 18px;
+        padding: 14px;
+        margin-top: 30px;
+        border-radius: 6px;
+
+    }
+
+    .bezdim img{
+        height: 326px;
+        width: 385px;
+    }
+    
+    .bezdim{
+       margin-top: 50px;
+       display: flex;
+       gap: 20px;
+    }
+
+    .card99{
+       
+        padding: 40px;
+        width: 530px;
+        border-radius: 10px;
+    }
+    
+    .card99 h1{
+        font-size: 60px;
+    }
+    
+    .card99 h2{
+        font-size: 20px;
+    }
+    
+    .mrym h3{
+        font-size: 20px;
+        color:#333333;
+    }
+    
+    .mrym p{
+        font-size: 18px;
+        color: #59595A;
+    }
+    
+    .rsl{
+
+        padding: 20px;
+        border-radius: 8px;
+        width: 510px;
+    }
+    
+    .yeter{
+        border-radius: 6px;
+        padding: 10px;
+        font-size: 16px;
+        width: 100px;
+    }
+    
+    .rsll{
+        padding: 20px;
+        border-radius: 8px;
+        width: 510px;
+    
+    }
+    
+    .yeterr{
+        border-radius: 6px;
+        padding: 10px;
+        font-size: 16px;
+        width: 100px;
+    }
+
+    
+}
+   
