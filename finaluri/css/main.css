@@ -68,7 +68,6 @@ p .isari{
 .ull{
     list-style: none;
     display: flex;
-    align-items: left;
     gap: 40px;
     margin-right: 700px;
     align-items: center;
@@ -812,7 +811,7 @@ ul li a:hover{
 }
 
 .pp{
-    width: 785;
+    width: 785px;
 }
 
 .card99{
@@ -1027,7 +1026,6 @@ ul li a:hover{
 
     .ull{
         margin-right: 400px;
-        align-items: left;
     }
 
     .spn h1 i{ 
@@ -1340,7 +1338,6 @@ ul li a:hover{
     .navbar{
         display: flex;
         padding: 20px;
-        justify-content: baseline;
         align-items: center;
     }
 
