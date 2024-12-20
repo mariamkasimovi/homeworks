@@ -850,7 +850,7 @@ ul li a:hover{
     border-radius: 8px;
     width: 650px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between;   
 }
 
 .yeter{
@@ -1145,6 +1145,7 @@ ul li a:hover{
         padding: 25px;
         width: 550px;
         border-radius: 12px;
+     
       }
       
       
@@ -1315,5 +1316,161 @@ ul li a:hover{
     }
 
     
+}
+
+
+@media only screen and (max-width:768px){
+    .container{
+        max-width: 768px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    
+
+    .star{
+        padding: 20px;
+        border-radius: 6px;
+        font-size: 18px;
+        max-width: 768px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .navbar{
+        display: flex;
+        padding: 20px;
+        justify-content: baseline;
+        align-items: center;
+    }
+
+    .mamaaa{
+        visibility: hidden;
+    }
+
+    .buttons a{
+       visibility: hidden;
+    }
+
+    .spn h1 i{ 
+        font-size: 24px;
+        border-radius: 6px;
+        padding: 7px;
+    }
+
+    section{
+        padding: 50px;
+    }
+
+    .sctn3 img{
+        width: 510px;
+        align-items: center;
+    }
+
+    .pp{
+
+        width: 500px;
+      }
+
+      .xl{
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .xxl{
+        visibility:hidden;
+      }
+
+      .vv{
+        flex-direction: column;
+      }
+
+      .card2 img{
+        width: 490px;
+        
+    }
+
+    .btn5{
+        width: 500px;
+    }
+
+
+
+    .card3{
+        width: 500px;
+        padding: 30px;
+        border-radius: 12px;
+    
+    }
+
+    .ss{
+        flex-direction: column;
+        gap: 0;
+    }
+    
+    .cudadvar{
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .manana{
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .dvlpr{
+        flex-direction: column;
+    }
+
+    .bezdim img{
+        width: 160px;
+        height: 170px;
+    }
+
+    .txtt{
+        flex-direction: column;
+       
+    }
+
+    .oljm{
+        flex-direction: column;
+    }
+
+    .ll{
+        flex-direction: column;
+    }
+
+    .card99{
+        width: 430px;
+    }
+
+    .rsl{
+        width: 400px;
+    }
+
+    .rsll{
+        width: 400px;
+    }
+   
+    .card888{
+        width: 500px;
+    }
+
+    .yasamerem{
+       flex-direction: column;
+        gap:0;
+    }
+
+    .frpln{
+        margin-left: -50px;
+    }
+
+
+    .xarasho{
+        flex-direction: column;
+        gap: 10px;
+    }
+
+
 }
    
